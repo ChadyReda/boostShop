@@ -1,0 +1,19 @@
+Prisma ORM commands
+
+#1 npx prisma migrate dev 
+-> this command convert all your prisma schemas into tables in the database
+
+#2 npx prisma db pull
+-> this command covert all the tables in the database into prisma schemas
+
+#3 npx prisma studio
+-> start the prisma client studio in the browser
+
+
+
+#this template have nextauth fully setuped
+#also it have prisma completely functional with postgres and ready to go
+#it have typescript with tailwind
+
+---- go and build wathever you want <byyyyyyy> ----
+
